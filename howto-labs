@@ -1,0 +1,17 @@
+# Jenkins Primer for a Devops Engineer
+
+
+Chapter 2: Setting up Learning Environment
+Chapter 3: Jenkins Systems Configurations
+Chapter 4: Creating First Project with Jenkins
+Chapter 5: Adding Build Triggers
+Chapter 6: Building a Pipeline
+Chapter 7: Preparing to build Java Projects
+Chapter 8: Creating Java Build Project
+Chapter 9: Integrating with Artifactory
+Chapter 10: Creating Test Job
+Chapter 11: Static Code Analysis with SonarQube
+Chapter 12: Creating Package Job
+Chapter 13: Deploy application to Tomcat
+Chapter 14: Create Docker Image
+Chapter 15: Deploy application Using Docker Compose
