@@ -24,12 +24,13 @@ It will pay a way to cloud deployment platforms like AWS,AZURE,Google cloud vent
 * Basic GNU/LINUX knowledge is nice to have, but not required.
 * A machine running Linux (Physical or Virtual).
 * Basic Docker understanding is nice to have, but not required.
-* Who this course is for:
-* Developers and DevOps who want to learn agile tools to automate everything
+
+## Who this course is for:
+* Software Developers and DevOps Engineer who want to learn agile tools to automate everything
 * Professionals who have never being in touch with Jenkins2.0 before
 * Ops/SysAdmins looking for faster processes
 * Anyone interested in learning Jenkins2.0 to expand thier skills 
-* Software developer, Manager , Tester , QA , DevOps engineer , Business Analyst 
+* Manager , Tester , QA , Business Analyst 
 
 
 
